@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Unitconverter</string>
+    <string-array name="unit_options">
+        <item>m</item>
+        <item>mm</item>
+        <item>mile</item>
+        <item>foot</item>
+        <item>inch</item>
+    </string-array>
+</resources>
